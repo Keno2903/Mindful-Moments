@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Xcode & Swift
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods / Carthage
+Pods/
+Podfile.lock
+Carthage/Build/
+
+# Archives
+*.xcarchive
+
+# SwiftUI Previews
+Preview\ Content/
+
+# Große Binaries/Assets, falls nicht versioniert
+*.ttf
+*.otf
+*.mp3
+*.wav
